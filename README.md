@@ -44,4 +44,13 @@ https://github.com/Kmohamedalie/BigQuery-Intro/assets/63104472/d94582ad-b795-44e
 https://github.com/Kmohamedalie/BigQuery-Intro/assets/63104472/65d9460f-6026-48db-8882-5a17e62dc81a
 
 
+<br><br><br>
+
+
+
+# **[End of Course Certificate:](https://coursera.org/verify/9BN6V8LP6TAK)**
+
+![image](https://github.com/Kmohamedalie/BigQuery-Intro/assets/63104472/30f73149-cc40-408d-bf84-746dd3e34a1a)
+
+
 
