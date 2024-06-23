@@ -7,6 +7,9 @@ Link to dataset: [Covid19](https://data.humdata.org/search?q=Covid-19&ext_search
 3. Data analysis/visualization
 4. Sharing reports
 
+![image](https://github.com/Kmohamedalie/BigQuery-Intro/assets/63104472/ad90ff75-04f7-4b4f-84e0-91eabcbdeedc)
+
+
 
 
 <br>
